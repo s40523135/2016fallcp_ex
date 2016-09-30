@@ -1,0 +1,3 @@
+mystring = "s40523135"
+mystring = mystring + "test"
+print(mystring)
